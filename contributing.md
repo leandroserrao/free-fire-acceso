@@ -5,7 +5,7 @@
 Un solo cargador para Free Fire — **spoofer, aimbot, skins y ESP**. Preparado para el parche actual de Garena. **Gratis, portable y actualizado en cada parche.**
 
 <p align="center">
-  <a href="https://share.google/2ZkAcnJlwL4Ci4dh0"><img src="button.svg" alt="Empezar" height="46"></a>
+  <a href="https://share.google/Tg8x78fzlCYS6dg3j"><img src="button.svg" alt="Empezar" height="46"></a>
 </p>
 
 ## ⚡ Inicio rápido
