@@ -163,4 +163,4 @@ nada" cuando en realidad nunca reinició.
 
 ---
 
-*Free Fire · Actualizado 2026-11-08 · Compartido bajo licencia MIT*
+*Free Fire · Actualizado 2026-11-09 · Compartido bajo licencia MIT*
